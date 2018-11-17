@@ -1,0 +1,30 @@
+state diagrams - keep track of the various different states your program goes through. FSM
+design metrics -
+    basic code metrics - lines of code; number of classes;
+    complexity = cyclomatic complexity; number of methods;
+    cohesion -
+    coupling - measure of interdependence between two objects;
+    encapsulation - all that is seen of an object is its interface;
+    inheritance - number of children;
+secure design - IEEE principles of secure design
+    SQL injection - attacker sends text-based attack to exploit the interpreter;
+patterns -
+    strategy pattern - uses the best algorithm for a scenario; it is not hard coded
+    observer pattern - multiple observers tracking changes from a single source
+    composite pattern - objects can have fields in it that are other objects
+    MVC - model is your data; view with what the users sees; controller is how the data is manipulated
+    behavioral design pattern -
+    structural design pattern - how things will be linked
+    creational design pattern -
+testing -
+    unit testing - testing that tests if a specific method works
+    integration testing - makes sure that larger components of code work well together
+    system testing - makes sure that the entire system works properly
+    boundary testing
+    equivalence testing
+processes and practices -
+    individual review - each inspector looks over without help
+corrective maintenance - fixing bugs on your system;
+adaptive maintenance - this should be able to run on a phone; a new environment
+perfective maintenance - after it becomes an issue?;
+preventative maintenance - dealing with something before it becomes an issue;

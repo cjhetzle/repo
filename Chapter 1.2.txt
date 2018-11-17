@@ -1,0 +1,27 @@
+Chapter 1.2
+
+Voltage source (+ -)
+Current source (<-)
+Resistor VVV
+Capacitor -||-
+Inductor -ooo-
+
+Current - First derivative of charge. (d/dt)q(t) = (d/dt)Q = dQ/dt
+q or Q = charge
+For the electron, q = -1.6e-19 coul.
+
+I = Amp = Coul/Sec
+
+WORK EXAMPLE 1.1 (P.9) EXERCISE 1.1, 1.2 (P.11)
+
+UPPERCASE - Constant
+lowercase - !Constant
+
+V = Volt = Joule/Coul
+
+Voltage = "Potential Energy"
+
+Height = "Potential Energy"
+
+DC - Direct Current - current "flows" in one direction FLUID FLOW approx.
+AC - Alternating Current - current flows "back and forth"
